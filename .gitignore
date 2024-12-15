@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules folder (if you use Node.js for the backend)
+node_modules/
+
+# Ignore logs and debugging files
+npm-debug.log
+
+# Ignore VS Code settings folder
+.vscode/
